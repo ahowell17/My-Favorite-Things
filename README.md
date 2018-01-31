@@ -9,18 +9,18 @@ These are My Favoite Things
 <h2 id="My Movies">
 My Movies
 </h2>
-<h3>
+
 <ol>
-<li>Love and Basketball</li>
-<li>Nightmare Before Christmas</li>
-<li>What's Done in the Dark</li>
-<li>Scooby Doo</li>
+ <li><a href="https://www.rottentomatoes.com/m/love_and_basketball/">Love and Basketball</a></li>
+<li><a href="https://www.rottentomatoes.com/m/nightmare_before_christmas/">Nightmare Before Christmas</a></li>
+<li><a href="https://www.rottentomatoes.com/m/tyler_perrys_whats_done_in_the_dark_the_play">What's Done in the Dark</a></li>
+ <li><a href="https://www.rottentomatoes.com/m/1112357_scoobydoo?">Scooby Doo</a></li>
 </ol>
-</h3>
+
 <h2>
 My Foods
 </h2>
-<h3>
+
 <ol>
 <li>Panda Express</li>
 <li>Mi Pueblo</li>
@@ -38,11 +38,11 @@ My Foods
 <li>The Dip</li>
 <li>Wimpy's</li>
 </ol>
-</h3>
+
 <h2>
 My Shows
 </h2>
-<h3>
+
 <ol>
 <li>Doctor Who</li>
 <li>Gilmore Girls</li>
@@ -55,11 +55,11 @@ My Shows
 <li>Baby Daddy</li>
 <li>Once Upon A Time</li>
 </ol>
-</h3>
+
 <h2>
  My Music
 </h2>
-<h3>
+
 <ol>
 <li>Lil Baby</li>
 <li>Sam Smith</li>
@@ -84,6 +84,6 @@ My Shows
 <li>The Temptations</li>
 <li>Tank</li>
 </ol>
-</h3>
+
 </body>
 </html>
